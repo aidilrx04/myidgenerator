@@ -25,5 +25,5 @@ a {
 
 .link
 {
-  @apply underline hover:scale-50 hover:text-gray-600 transition-all
+  @apply underline hover:text-gray-600 transition-all
 }
